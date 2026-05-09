@@ -1,0 +1,10 @@
+2026-05-10 01:31:15,315 - TradingBot - INFO - Attempting MARKET BUY 0.002 BTCUSDT at Market Price
+2026-05-10 01:31:15,315 - TradingBot - INFO - Sending MARKET BUY order for BTCUSDT...
+2026-05-10 01:31:15,478 - TradingBot - INFO - SUCCESS: Order ID 13124594502 | Status: NEW | Executed Qty: 0.0000 | Avg Price: 0.00
+2026-05-10 01:32:39,121 - TradingBot - INFO - Attempting LIMIT BUY 0.002 BTCUSDT at 9000.0
+2026-05-10 01:32:39,121 - TradingBot - INFO - Sending LIMIT BUY order for BTCUSDT...
+2026-05-10 01:32:39,276 - TradingBot - ERROR - Binance API Error: Order's notional must be no smaller than 50 (unless you choose reduce only). (Status Code: 400)
+2026-05-10 01:32:39,276 - TradingBot - ERROR - FAILED: Binance Error: Order's notional must be no smaller than 50 (unless you choose reduce only).
+2026-05-10 01:32:51,150 - TradingBot - INFO - Attempting LIMIT BUY 0.002 BTCUSDT at 55000.0
+2026-05-10 01:32:51,151 - TradingBot - INFO - Sending LIMIT BUY order for BTCUSDT...
+2026-05-10 01:32:51,314 - TradingBot - INFO - SUCCESS: Order ID 13124598494 | Status: NEW | Executed Qty: 0.0000 | Avg Price: 0.00
